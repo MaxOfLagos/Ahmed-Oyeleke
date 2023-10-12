@@ -1,7 +1,7 @@
 ---
 title: 'Contact Me' # in any language you want
 # url: "/archive"
-description: 'How can I help you?'
+description: 'Get in touch'
 disableShare: true
 layout: contact
 ShowReadingTime: false

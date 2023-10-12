@@ -1,10 +1,10 @@
 ---
-baseURL: https://piko-heksagon.netlify.app/
+baseURL: https://ahmedoyeleke.com
 languageCode: en-us
-title: Piko
+title: Ahmed Oyeleke
 theme: piko
 paginate: "9"
-copyright: A template by [Heksagon](https://www.heksagon.net "Your most friendly developer")
+copyright: 
 googleAnalytics: # Enter Google Analytics ie. UA-012345678-9
 enableRobotsTXT: true
 buildDrafts: false
@@ -37,21 +37,21 @@ params:
     bing:
       SiteVerificationTag: # Bing Site Verification
   env: production
-  author: Your Name
-  description: Your website description
+  author: Ahmed Oyeleke
+  description: Personal website for Ahmed Oyeleke, Expert Data and Business Analyst
   math: false
   images:
   - "/uploads/og.webp"
   label:
-    title: _Piko Title_
-    text: Welcome to Piko
+    title: Ahmed Oyeleke
+    text: Ahmed Oyeleke
     lightNavIcon: /uploads/sun.svg
     darkNavIcon: /uploads/zap.svg
     iconHeight: "35"
     iconWIdth: "35"
   comments: true
   mainSections:
-  - blog
+  - portfolio
   ShowShareButtons: true
   ShowCodeCopyButtons: true
   ShowRelated: true
@@ -74,41 +74,30 @@ params:
     # Hero Section
     disableHeroSection: false
     heroUpperTitle: 
-    heroTitle: Piko
-    heroDescription: Lightweight theme for your every need
-    heroCTAPrimaryText: Blog
-    heroCTAPrimaryUrl: "/blog/"
-    heroCTASecondaryText: Contact Me
-    heroCTASecondaryUrl: "/contact/"
+    heroTitle: Ahmed Oyeleke
+    heroDescription: Expert Data and Business Analyst
+    heroCTAPrimaryText: Portfolio
+    heroCTAPrimaryUrl: "/portfolio/"
+    heroCTASecondaryText: Connect on LinkedIn
+    heroCTASecondaryUrl: https://www.linkedin.com/in/ahmed-oyeleke/\
+    heroCTATetText: Download Resume
+    heroCTATetUrl: "/uploads/ahmedoyelekecv.pdf"
     heroBackgroundImage: "/uploads/portfolio-1.webp"
-    # Blog Section
-    disableBlogSection: false
-    blogTitle: Latest Posts
-    blogDescription: This is my latest blog posts
-    seeMoreText: More Posts
+    
     # About Section    
     disableAboutSection: false
     aboutTitle: About
-    aboutDescription: Just something about me
-    aboutImgUrl: "/uploads/self.webp"
-    aboutContent: Hi guys. This is where you put something about yourself.
-    # Portfolio Section
-    disablePortfolioSection: false
-    portfolioTitle: Portfolio
-    portfolioDescription: Some of my works
-    portfolio:
-    - imageUrl: /uploads/portfolio-1.webp
-      alt: # image alt for better SEO
-      description: Portfolio One.
-      websiteUrl: #
-    - imageUrl: /uploads/portfolio-2.webp
-      alt: # image alt for better SEO
-      description: Portfolio Two.
-      websiteUrl: #
-    - imageUrl: /uploads/portfolio-3.webp
-      alt: # image alt for better SEO
-      description: Portfolio Three.
-      websiteUrl: #
+    aboutDescription: A brief introduction
+    aboutImgUrl: "/uploads/ahmedphoto.jpg"
+    
+    
+    # Blog Section, Actually Portfolio but we didnt want to rename
+    disableBlogSection: false
+    blogTitle: Portfolio Snippets
+    blogDescription: Click on a snippet to see more
+    seeMoreText: View More
+    
+    
   # Search Options (https://fusejs.io/)
   fuseOpts:
     isCaseSensitive: false
@@ -129,26 +118,20 @@ params:
     - link: plugins/js/feather.min.js
 menus:
   main: # Main Menu
-  - name: Blog
-    title: Blog
+  - name: Portfolio
+    title: Portfolio
     pre: pen-tool
-    url: "/blog"
+    url: "/portfolio"
     weight: "20"
-  - name: Search
-    title: Search
-    pre: search
-    url: "/search"
-    weight: "30"
+  
   - name: Contact
     title: Contact
     pre: mail
     url: "/contact"
     weight: "40"
-  - name: Github
-    title: 
-    pre: github
-    url: https://github.com/heksagonnet/piko
-    weight: "50"
+  
+
+  # Everything below is orphaned since we removed search
   search: # Search page's quick links
   - name: Categories
     title: Categories

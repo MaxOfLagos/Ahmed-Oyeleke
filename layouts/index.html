@@ -21,11 +21,43 @@ url('{{.Site.Params.homepage.heroBackgroundImage}}'); ">
         class="contrast outline"
         >{{.Site.Params.homepage.heroCTASecondaryText}}</a
       >
+      <a
+        class="contrast outline"
+        href="{{ .Site.Params.homepage.heroCTATetUrl | relURL  }}"
+        role="button"
+        >{{.Site.Params.homepage.heroCTATetText}}</a
+      >
     </div>
   </header>
 </section>
 {{ end }}
 
+{{- if not (.Site.Params.homepage.disableAboutSection) }}
+<section>
+  <hgroup class="text-center">
+    <h2>{{.Site.Params.homepage.aboutTitle}}</h2>
+    <h3>{{.Site.Params.homepage.aboutDescription}}</h3>
+  </hgroup>
+  <div class="container">
+    <div class="grid">
+      <div class="container" style="text-align: right;">
+        <img
+          src="{{.Site.Params.homepage.aboutImgUrl}}"
+          alt="{{.Site.Params.author}}"
+          width="300"
+          height="450"
+          layout="intrinsic"
+        ></img>
+      </div>
+      <div class="container" align="justify">
+        <p>Hello! I am a data and business analyst with over seven years of experience in various industries, including government, supply chain, and technology. Passionate about designing and deploying data-driven methodologies for corporate decision making, using advanced tools and techniques such as Azure, SQL, SSIS, SSRS, and Power BI. </p> <p> My academic background is in mechanical and aerospace engineering and previously, I worked as a Business Analyst at ExxonMobil, where I supported data collection, analysis, and reporting for various projects and initiatives. I am currently completing a certification in Business Intelligence Data Analysis and Reporting at SAIT.
+        </p>
+        
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
 
 {{- if not (.Site.Params.homepage.disableBlogSection) }}
 <section>
@@ -64,35 +96,12 @@ url('{{.Site.Params.homepage.heroBackgroundImage}}'); ">
     </div>
   </div>
   <div class="text-center">
-  <a href="{{ "/blog" | absLangURL }}"><kbd>{{.Site.Params.homepage.seeMoreText}}</kbd></a>
+  <a href="{{ "/portfolio" | absLangURL }}"><kbd>{{.Site.Params.homepage.seeMoreText}}</kbd></a>
 </div>
 </section>
 {{ end }}
 
-{{- if not (.Site.Params.homepage.disableAboutSection) }}
-<section>
-  <hgroup class="text-center">
-    <h2>{{.Site.Params.homepage.aboutTitle}}</h2>
-    <h3>{{.Site.Params.homepage.aboutDescription}}</h3>
-  </hgroup>
-  <div class="container">
-    <div class="grid">
-      <div class="container" style="text-align: right;">
-        <img
-          src="{{.Site.Params.homepage.aboutImgUrl}}"
-          alt="{{.Site.Params.author}}"
-          width="300"
-          height="450"
-          layout="intrinsic"
-        ></img>
-      </div>
-      <div class="container">
-        {{.Site.Params.homepage.aboutContent}}
-      </div>
-    </div>
-  </div>
-</section>
-{{ end }}
+
 
 {{- if not (.Site.Params.homepage.disablePortfolioSection) }}
 <section>
