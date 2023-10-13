@@ -1,8 +1,8 @@
 ---
 author: "Ahmed Oyeleke"
-title: "City of Calgary Compensation"
-date: "2023-10-01"
-description: "A dashboard created to visualise some trends in the compensation structure for City of Calgary positions from 2019 to 2023"
+title: "Sales Data Analysis - SAIT Exercise"
+date: "2023-09-15"
+description: "A dashboard created as part of my certfication at SAIT in Business Intelligence"
 tags: 
 categories: ["themes", "syntax"]
 ShowRelated: false
