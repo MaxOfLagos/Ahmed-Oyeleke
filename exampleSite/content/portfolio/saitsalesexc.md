@@ -10,13 +10,13 @@ showToc: false
 ShowBreadCrumbs: false
 ---
 
-We were given some sales data during the course and asked to create some simple visualisations. 
+Some sales data was provided to students during the course and we were asked to create some simple visualisations. 
 
 **ETL**
 The source data did not requrie any cleaning as it was intended to be an exercise in creating visuals.
 
 **Visualisation**
-The data was then imported into Power BI where the dashbaord was built to highlight some information that management might find interesting vis-a-vis sales data.
+The data was then imported into Power BI where the dashboard was built to highlight some information that management might find interesting vis-a-vis sales performance.
 
 The interactive report can be viewed at [this link](https://app.powerbi.com/view?r=eyJrIjoiYTJmNTBlMWEtNDU2Yi00MGZiLThkZjQtZTFhZDBkNGNjMGNjIiwidCI6ImY1MmYyMTgzLTlmNjctNGFkMi1iNjU2LTZmNzU0ZmUxOTZjYiIsImMiOjZ9).
 
