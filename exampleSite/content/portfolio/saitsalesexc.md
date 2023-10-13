@@ -10,22 +10,17 @@ showToc: false
 ShowBreadCrumbs: false
 ---
 
-I decided to take a look at the City of the Calgary compensation data which is publicly available on the [City of Calgary Open Data Platform](https://data.calgary.ca/Government/Compensation-Disclosure-List/9bze-mzx6)
+We were given some sales data during the course and asked to create some simple visualisations. 
 
 **ETL**
-The source data is relatively clean, containing just 4 columns - year, Title, Min Annual Base Rate, and Max Annual Base Rate. With just under 15000 rows, it was a <1MB csv file. I decided to make things more interesting by importing the csv into SQL to use SSMS for some prelimniary analysis.
-
-Afterwards I made these changes
-- Removed Max Base Rate as I deemed it inapplicable to most new hires
-- Introduced new columns: Career Level, Salary Group, Department (_Note, I used AI to help with categorising the position titles into departments_)
-- Filtered for 2019 to 2023 data
+The source data did not requrie any cleaning as it was intended to be an exercise in creating visuals.
 
 **Visualisation**
-The data was then imported into Power BI where the dashbaord was built highlight some potentially interesting trends and comaprisons.
+The data was then imported into Power BI where the dashbaord was built to highlight some information that management might find interesting vis-a-vis sales data.
 
-The interactive report can be viewed at [this link](https://app.powerbi.com/view?r=eyJrIjoiY2QxYjE3OGYtOTM1NS00ZjNmLWI1MmUtZGZjZjQxYzM5ZTMwIiwidCI6ImY1MmYyMTgzLTlmNjctNGFkMi1iNjU2LTZmNzU0ZmUxOTZjYiIsImMiOjZ9).
+The interactive report can be viewed at [this link](https://app.powerbi.com/view?r=eyJrIjoiYTJmNTBlMWEtNDU2Yi00MGZiLThkZjQtZTFhZDBkNGNjMGNjIiwidCI6ImY1MmYyMTgzLTlmNjctNGFkMi1iNjU2LTZmNzU0ZmUxOTZjYiIsImMiOjZ9).
 
 
 
-![This where you put the alt information](/uploads/citycalcompshot.png "Screenshot from the dashboard")
+![This where you put the alt information](/uploads/saitexcshot1.png "Screenshot from the dashboard")
 
