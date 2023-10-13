@@ -59,6 +59,7 @@ url('{{.Site.Params.homepage.heroBackgroundImage}}'); ">
 </section>
 {{ end }}
 
+<!-- This is actually the portfolio section on the homepage -->
 {{- if not (.Site.Params.homepage.disableBlogSection) }}
 <section>
   <hgroup class="text-center">
@@ -101,35 +102,5 @@ url('{{.Site.Params.homepage.heroBackgroundImage}}'); ">
 </section>
 {{ end }}
 
-
-
-{{- if not (.Site.Params.homepage.disablePortfolioSection) }}
-<section>
-  <hgroup class="text-center">
-    <h2>{{.Site.Params.homepage.portfolioTitle}}</h2>
-    <h3>{{.Site.Params.homepage.portfolioDescription}}</h3>
-  </hgroup>
-  <div class="container">
-    <div class="grid grid-post">
-      {{ range .Site.Params.homepage.portfolio }}
-      <a class="portfolio-post" href="{{.websiteUrl}}">
-        <figure >
-          <img
-            src="{{.imageUrl}}"
-            width="600"
-            height="400"
-            layout="responsive"
-            alt="{{.alt}}"
-          ></img>
-        </figure>
-        <hgroup class="text-center">
-          <h4>{{.description}}</h4>
-        </hgroup>
-      </a>
-      {{ end }}
-    </div>
-  </div>
-</section>
-{{ end }}
 
 {{ end }}
