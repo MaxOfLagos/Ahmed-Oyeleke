@@ -1,6 +1,6 @@
 ---
 title: Privacy Policy
-date: 2023-10-21T23:22:20+08:00
+date: 2023-09-21T23:22:20+08:00
 layout: legal # is necessary
 searchHidden: true
 url: /legal/privacy
@@ -85,9 +85,3 @@ The right to object to processing – You have the right to object to our proces
 The right to data portability – You have the right to request that we transfer the data that we have collected to another organization, or directly to you, under certain conditions.
 
 If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.
-
-## Children's Information
-
-Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.
-
-We does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.

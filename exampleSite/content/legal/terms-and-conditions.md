@@ -8,11 +8,9 @@ description: This is the terms and conditions page for Ahmed Oyeleke
 ---
 ## Terms and Conditions for Ahmed Oyeleke
 ### Introduction
-These Website Standard Terms and Conditions written on this webpage shall manage your use of our website, Webiste Name accessible at Website.com.
+These Website Standard Terms and Conditions written on this webpage shall manage your use of the website.
 
 These Terms will be applied fully and affect to your use of this Website. By using this Website, you agreed to accept all terms and conditions written in here. You must not use this Website if you disagree with any of these Website Standard Terms and Conditions.
-
-Minors or people below 18 years old are not allowed to use this Website.
 
 ### Intellectual Property Rights
 Other than the content you own, under these Terms, Ahmed Oyeleke and/or its licensors own all the intellectual property rights and materials contained in this Website.
