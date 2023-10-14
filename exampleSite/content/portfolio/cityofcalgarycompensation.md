@@ -3,8 +3,8 @@ author: "Ahmed Oyeleke"
 title: "City of Calgary Compensation"
 date: "2023-10-01"
 description: "A dashboard created to visualise some trends in the compensation structure for City of Calgary positions from 2019 to 2023"
-tags: 
-categories: ["themes", "syntax"]
+tags: ["Data", "Dashboard", "Compensation", "City of Calgary"]
+categories: 
 ShowRelated: false
 showToc: false
 ShowBreadCrumbs: false

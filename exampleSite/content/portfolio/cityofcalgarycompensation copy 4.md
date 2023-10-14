@@ -3,8 +3,8 @@ author: "Ahmed Oyeleke"
 title: "Coming Soon"
 date: "2023"
 description: "Have an idea for a dashboard you want me to make? Let me know!"
-tags: ["images","markdown", "css", "html", "themes"]
-categories: ["themes", "syntax"]
+tags: ["Data", "Dashboard"]
+categories: 
 ShowRelated: false
 showToc: false
 ShowBreadCrumbs: false

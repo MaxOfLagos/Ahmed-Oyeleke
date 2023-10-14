@@ -3,8 +3,8 @@ author: "Ahmed Oyeleke"
 title: "Tata Data Consultancy Excercise"
 date: "2023-09-05"
 description: "This report contains a series of simple visuals for global sales data for a multinational seller of consumer products"
-tags: 
-categories: ["themes", "syntax"]
+tags: ["Data", "Dashboard"]
+categories: 
 ShowRelated: false
 showToc: false
 ShowBreadCrumbs: false

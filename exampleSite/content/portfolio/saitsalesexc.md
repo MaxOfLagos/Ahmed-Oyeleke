@@ -3,8 +3,8 @@ author: "Ahmed Oyeleke"
 title: "Sales Data Analysis - SAIT Exercise"
 date: "2023-09-15"
 description: "A dashboard created as part of my certfication at SAIT in Business Intelligence"
-tags: 
-categories: ["themes", "syntax"]
+tags: ["Data", "Dashboard", "Sales"]
+categories: 
 ShowRelated: false
 showToc: false
 ShowBreadCrumbs: false
