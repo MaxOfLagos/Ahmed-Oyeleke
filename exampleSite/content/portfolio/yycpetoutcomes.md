@@ -24,7 +24,8 @@ The source data is relatively clean, containing 5 columns, details of each colum
   * Transfer: Animal was sent to another pound or facility
   * Other: Includes Disposal (when a deceased animal comes to Animal Services Centre, typically hit by a car, and teh body is sent for cremation). DOA (the term used for “dead on arrival” and typically gets used when an animal is taken to a vet clinic deceased, and there is no indication as to why). In Kennel (Still being kenneled at animal service at the time of this data being collected).
 - Animal: This column contains two unique values, dogs and cats
-- Volume: Number of pets 
+- Volume: Number of pets
+- Row ID: Generated unique identifier for each data point
 
 **Analysis**  
 Data is available from 2012 April to 2023 March. To normalise, we will only be considering data in the 10 year periond starting from January 2013 to December 2022 inclusive. There is no data for November and December 2016.
