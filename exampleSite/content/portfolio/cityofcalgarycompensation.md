@@ -13,7 +13,7 @@ ShowBreadCrumbs: false
  
  For this mini-project, I decided to take a look at the City of the Calgary compensation data which is publicly available on the [City of Calgary Open Data Platform](https://data.calgary.ca/Government/Compensation-Disclosure-List/9bze-mzx6)
 
-**ETL**
+**ETL**  
 The source data is relatively clean, containing just 4 columns - Year, Position Title, Minimum Annual Base Rate, and Maximum Annual Base Rate. With just under 15000 rows, it was a <1MB csv file. I decided to make things more interesting by importing the csv into SQL to use SSMS for some prelimniary analysis.
 
 Afterwards I made the following changes:
@@ -21,7 +21,7 @@ Afterwards I made the following changes:
 - Introduced new columns: Career Level, Salary Group, Department (_Note, I used AI to help with categorising the position titles into departments_)
 - Filtered for 2019 to 2023 data
 
-**Visualisation**
+**Visualisation**  
 The data was then imported into Power BI where the dashboard was built highlight some potentially interesting trends and comparisons.
 
 The interactive report can be viewed at [this link](https://app.powerbi.com/view?r=eyJrIjoiY2QxYjE3OGYtOTM1NS00ZjNmLWI1MmUtZGZjZjQxYzM5ZTMwIiwidCI6ImY1MmYyMTgzLTlmNjctNGFkMi1iNjU2LTZmNzU0ZmUxOTZjYiIsImMiOjZ9).
