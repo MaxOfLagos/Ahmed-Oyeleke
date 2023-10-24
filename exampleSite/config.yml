@@ -38,7 +38,7 @@ params:
       SiteVerificationTag: # Bing Site Verification
   env: production
   author: Ahmed Oyeleke
-  description: Personal website for Ahmed Oyeleke, Expert Data/Business Analyst and Agile Project Manager
+  description: Personal website and portfolio for Ahmed Oyeleke, Expert Data/Business Analyst and Agile Project Manager
   math: false
   images:
   - "/uploads/og.webp"
