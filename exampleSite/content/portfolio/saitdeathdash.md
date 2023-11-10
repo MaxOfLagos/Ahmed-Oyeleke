@@ -15,10 +15,14 @@ Data was sourced from [Kaggle](https://www.kaggle.com/datasets/iamsouravbanerjee
 
 Some key steps
 - Power Query: Unpivot the cause columns
-- Power Query: Create Category Table (Cause Categories on the dashboard)
-- Assign Foreign Key of Country Code Dimension Table containing Region and Income Level data
+- Power Query: Create Dimension Table for categories (Cause Categories on the dashboard)
+- Power Query: Create Dimension Table for Regions and Income Group
+- Assign Foreign Key of Country Code in Dimension Table containing Region and Income Level data
+- Assign Foreign Key of Cause in Dimension Table for Categories
 - Create mesaures for total death by Categories
 
+Future Plans
+- Add a second page for country-specific visualisations and comparisons
 
 **Group Members**  
 My project group comprised of these invividuals:
