@@ -41,7 +41,7 @@ params:
   description: Personal website and portfolio for Ahmed Oyeleke, Expert Data/Business Analyst and Agile Project Manager
   math: false
   images:
-  - "/uploads/og.webp"
+  - "/uploads/thumb.png"
   label:
     title: Ahmed Oyeleke
     text: Ahmed Oyeleke

@@ -19,7 +19,7 @@ Some key steps
 - Power Query: Create Dimension Table for Regions and Income Group
 - Assign Foreign Key of Country Code in Dimension Table containing Region and Income Level data
 - Assign Foreign Key of Cause in Dimension Table for Categories
-- Create mesaures for total death by Categories
+- Create mesaures for total death by Categories and Income Groups
 
 Future Plans
 - Add a second page for country-specific visualisations and comparisons
