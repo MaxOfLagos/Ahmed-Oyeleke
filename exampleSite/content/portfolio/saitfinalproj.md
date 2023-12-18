@@ -23,7 +23,7 @@ Some key steps
 
 **Group Members**  
 My project group comprised of these invividuals:
-- [Ryan Lee](https://www.linkedin.com/in/robin-simcoe-3739b3262/)
+- [Ryan Lee](https://www.linkedin.com/in/ryan-lee-r1012/)
 - [Kaylee Baychu](https://sites.google.com/view/kaylee-baychu/home)
 - [Olayinka Daramola](https://www.linkedin.com/in/olayinka-daramola-1b323a92/)
 - [Jad Mouallem](https://www.linkedin.com/in/jad-mouallem/)
