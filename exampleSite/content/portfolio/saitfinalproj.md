@@ -30,10 +30,3 @@ My project group comprised of these invividuals:
 
 ## Interactive Dashboard
 This dashboard includes features that prevent me from being able to embed it publicly such as Row-Level Security and the Q&A feature for data exploration (These are Microsoft Limitations). When the dashboard is completed, I will record a video of the various compenents and features and embed the video here. Interested parties can visit [this link]() to see more details about the project such as the charter, plan, goals and objectives, as well as details of the requirement gathering process.
-
-
-
-<!-- raw html -->
-{{<rawhtml>}}
-<iframe title="Report Section" width="1280" height="720" src="https://app.powerbi.com/view?r=eyJrIjoiOTM4YWYxOTgtYWRmZC00Mjg2LTgyYzctZjMzNWEyZWM1MWE3IiwidCI6ImY1MmYyMTgzLTlmNjctNGFkMi1iNjU2LTZmNzU0ZmUxOTZjYiIsImMiOjZ9" frameborder="0" allowFullScreen="true"></iframe>
-{{</rawhtml>}}
