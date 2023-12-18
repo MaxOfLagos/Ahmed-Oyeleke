@@ -1,8 +1,8 @@
 ---
 author: "Ahmed Oyeleke"
-title: "[Ongoing] AdventureWorks Sales Dashboard"
+title: "[Coming Soon] AdventureWorks Sales Dashboard"
 date: "2023-12-05"
-description: "Dashboard created as part of requirements for the Final Project in my SAIT Business Intelligence Program"
+description: "Dashboard created as part of requirements for the Capstone Project in my SAIT Business Intelligence Program"
 tags: ["Data", "Dashboard"]
 categories: 
 ShowRelated: false
@@ -29,11 +29,9 @@ My project group comprised of these invividuals:
 - [Jad Mouallem](https://www.linkedin.com/in/jad-mouallem/)
 
 ## Interactive Dashboard
-The interactive report can be used below. If you face any issues with using it the embedded report below, it can be viewed externally at [this link](https://app.powerbi.com/view?r=eyJrIjoiOTM4YWYxOTgtYWRmZC00Mjg2LTgyYzctZjMzNWEyZWM1MWE3IiwidCI6ImY1MmYyMTgzLTlmNjctNGFkMi1iNjU2LTZmNzU0ZmUxOTZjYiIsImMiOjZ9).
+This dashboard includes features that prevent me from being able to embed it publicly such as Row-Level Security and the Q&A feature for data exploration (These are Microsoft Limitations). When the dashboard is completed, I will record a video of the various compenents and features and embed the video here. Interested parties can visit [this link]() to see more details about the project such as the charter, plan, goals and objectives, as well as details of the requirement gathering process.
 
-**Some notes about this dashboard**
-- The Q&A feature will not work because it is shared publicly
-- It is currently in development so it does not represent the final state 
+
 
 <!-- raw html -->
 {{<rawhtml>}}
