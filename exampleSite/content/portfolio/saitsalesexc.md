@@ -18,7 +18,8 @@ The source data did not requrie any cleaning as it was intended to be an exercis
 The interactive report can be viewed at [this link](https://app.powerbi.com/view?r=eyJrIjoiYTJmNTBlMWEtNDU2Yi00MGZiLThkZjQtZTFhZDBkNGNjMGNjIiwidCI6ImY1MmYyMTgzLTlmNjctNGFkMi1iNjU2LTZmNzU0ZmUxOTZjYiIsImMiOjZ9).
 
 ## Interactive Dashboard
-The interactive report can be used below. If you face any issues with using it the embedded report below, it can be viewed externally at [this link](https://app.powerbi.com/view?r=eyJrIjoiYTJmNTBlMWEtNDU2Yi00MGZiLThkZjQtZTFhZDBkNGNjMGNjIiwidCI6ImY1MmYyMTgzLTlmNjctNGFkMi1iNjU2LTZmNzU0ZmUxOTZjYiIsImMiOjZ9).
+The interactive report can be used below. If you face any issues with using it the embedded report below, it can be viewed externally at [this link](https://app.powerbi.com/view?r=eyJrIjoiYTJmNTBlMWEtNDU2Yi00MGZiLThkZjQtZTFhZDBkNGNjMGNjIiwidCI6ImY1MmYyMTgzLTlmNjctNGFkMi1iNjU2LTZmNzU0ZmUxOTZjYiIsImMiOjZ9). Content is best consumed on desktop.
+
 
 <!-- raw html -->
 {{<rawhtml>}}

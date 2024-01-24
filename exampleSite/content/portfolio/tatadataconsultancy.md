@@ -14,7 +14,8 @@ This exercise was completed as part of a virtual internship offered by [Forage](
 
 
 ## Interactive Dashboard
-The interactive report can be used below. If you face any issues with using it the embedded report below, it can be viewed externally at [this link](https://app.powerbi.com/view?r=eyJrIjoiMzM5NzUyOTAtMjc4OS00MzI1LTgyYTEtOWVhODk3YTc3NzVhIiwidCI6ImY1MmYyMTgzLTlmNjctNGFkMi1iNjU2LTZmNzU0ZmUxOTZjYiIsImMiOjZ9).
+The interactive report can be used below. If you face any issues with using it the embedded report below, it can be viewed externally at [this link](https://app.powerbi.com/view?r=eyJrIjoiMzM5NzUyOTAtMjc4OS00MzI1LTgyYTEtOWVhODk3YTc3NzVhIiwidCI6ImY1MmYyMTgzLTlmNjctNGFkMi1iNjU2LTZmNzU0ZmUxOTZjYiIsImMiOjZ9). Content is best consumed on desktop.
+
 
 <!-- raw html -->
 {{<rawhtml>}}

@@ -32,10 +32,11 @@ My project group comprised of these invividuals:
 - [Jason Phung](https://www.linkedin.com/in/jasonphungab/)
 
 ## Interactive Dashboard
-The interactive report can be used below. If you face any issues with using it the embedded report below, it can be viewed externally at [this link](https://app.powerbi.com/view?r=eyJrIjoiYWUzNTJiMDEtMDhkYy00MjE0LTg5YTctOTU1Y2ZiZWQ5ZmViIiwidCI6ImY1MmYyMTgzLTlmNjctNGFkMi1iNjU2LTZmNzU0ZmUxOTZjYiIsImMiOjZ9).
+The interactive report can be used below. If you face any issues with using it the embedded report below, it can be viewed externally at [this link](https://app.powerbi.com/view?r=eyJrIjoiYTU5OTkyZmYtMGZkZC00YjEzLTg4YTktYjBjYjliZTU1MmYwIiwidCI6IjgzYzYwYWMwLTkwZWQtNDg5My05NmMyLTNmOGJkODM0NDYwMCJ9). Content is best consumed on desktop.
+
 
 <!-- raw html -->
 {{<rawhtml>}}
-<iframe title="Report Section" width="1920" height="1110" src="https://app.powerbi.com/view?r=eyJrIjoiYWUzNTJiMDEtMDhkYy00MjE0LTg5YTctOTU1Y2ZiZWQ5ZmViIiwidCI6ImY1MmYyMTgzLTlmNjctNGFkMi1iNjU2LTZmNzU0ZmUxOTZjYiIsImMiOjZ9" frameborder="0" allowFullScreen="true"></iframe>
+<iframe title="Report Section" width="1920" height="1110" src="https://app.powerbi.com/view?r=eyJrIjoiYTU5OTkyZmYtMGZkZC00YjEzLTg4YTktYjBjYjliZTU1MmYwIiwidCI6IjgzYzYwYWMwLTkwZWQtNDg5My05NmMyLTNmOGJkODM0NDYwMCJ9" frameborder="0" allowFullScreen="true"></iframe>
 {{</rawhtml>}}
 

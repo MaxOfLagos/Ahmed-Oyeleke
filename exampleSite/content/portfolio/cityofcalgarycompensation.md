@@ -25,10 +25,10 @@ Afterwards I made the following changes:
 The data was then imported into Power BI where the dashboard was built highlight some potentially interesting trends and comparisons.
 
 ## Interactive Dashboard
-The interactive report can be used below. If you face any issues with using it the embedded report below, it can be viewed externally at [this link](https://app.powerbi.com/view?r=eyJrIjoiY2QxYjE3OGYtOTM1NS00ZjNmLWI1MmUtZGZjZjQxYzM5ZTMwIiwidCI6ImY1MmYyMTgzLTlmNjctNGFkMi1iNjU2LTZmNzU0ZmUxOTZjYiIsImMiOjZ9).
+The interactive report can be used below. If you face any issues with using it the embedded report below, it can be viewed externally at [this link](https://app.powerbi.com/view?r=eyJrIjoiMWRkNzA0ZGMtYjRiNy00NjRhLTg5MWYtYTFkOTkwMmE2YzhmIiwidCI6IjgzYzYwYWMwLTkwZWQtNDg5My05NmMyLTNmOGJkODM0NDYwMCJ9). Content is best consumed on desktop.
 
 <!-- raw html -->
 {{<rawhtml>}}
-<iframe title="City Of Calgary Compensation Dashboard" width="720" height="1410" src="https://app.powerbi.com/view?r=eyJrIjoiY2QxYjE3OGYtOTM1NS00ZjNmLWI1MmUtZGZjZjQxYzM5ZTMwIiwidCI6ImY1MmYyMTgzLTlmNjctNGFkMi1iNjU2LTZmNzU0ZmUxOTZjYiIsImMiOjZ9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
+<iframe title="City Of Calgary Compensation Dashboard" width="720" height="1410" src="https://app.powerbi.com/view?r=eyJrIjoiMWRkNzA0ZGMtYjRiNy00NjRhLTg5MWYtYTFkOTkwMmE2YzhmIiwidCI6IjgzYzYwYWMwLTkwZWQtNDg5My05NmMyLTNmOGJkODM0NDYwMCJ9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
 {{</rawhtml>}}
 
